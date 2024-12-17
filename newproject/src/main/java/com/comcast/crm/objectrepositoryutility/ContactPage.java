@@ -22,7 +22,7 @@ public class ContactPage
 
 	public WebElement getImg() 
 	{
-		System.out.println("Good evening everyone");
+		System.out.println("Good evening everyone1213");
 		return img;
 	}
 
