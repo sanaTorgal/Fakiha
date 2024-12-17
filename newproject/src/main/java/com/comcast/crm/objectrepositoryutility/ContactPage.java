@@ -20,7 +20,9 @@ public class ContactPage
 	@FindBy(name="submit")
 	private WebElement searchnow;
 
-	public WebElement getImg() {
+	public WebElement getImg() 
+	{
+		System.out.println("Good evening everyone1213");
 		return img;
 	}
 
